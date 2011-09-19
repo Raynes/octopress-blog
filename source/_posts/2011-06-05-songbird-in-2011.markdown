@@ -1,0 +1,118 @@
+---
+author: Raynes
+date: '2011-06-05 09:40:30'
+layout: post
+slug: songbird-in-2011
+status: publish
+title: Songbird in 2011
+wordpress_id: '151'
+categories:
+- Songbird
+---
+
+So, I'm a secret long-time [Songbird](http://getsongbird.com/) fan. I
+know, I know. Once they dropped Linux support everybody (including
+myself) ran like hell and never looked back. As it turns out, they may
+have been right about their Linux user base -- it wasn't that
+significant. Mostly, they just haven't had quite as much publicity since
+then, because people got understandably butthurt. However, Songbird has
+continued to evolve, so one can only assume that they're OS X and
+Windows user base is still going strong. Of course, Songbird still works
+on Linux and they put out 'unofficial'
+[builds](http://wiki.songbirdnest.com/Developer/Articles/Builds/Nightly_Builds)
+all the time, though they're always labeled as 'unofficial' and
+'untested' (whatever that is supposed to mean). I actually tried it on
+Linux and, save for some issues with conflicting gstreamers (Songbird
+ships it's own version of gstreamer), it worked fine. I don't quite
+understand what they mean by "we no longer support Linux" when, three
+years later, they're still putting out Linux builds and they still work.
+I find it bizarre that they have volunteers that can handle this, but
+they can't handle at least some resemblence of official 'support' for
+Linux? Songbird is open source, so I highly doubt it'll ever be broken
+as long as Linux users that happen to be programmers are using it.
+Nonetheless, I stopped using it when I moved to Linux a few years ago.
+I've used everything else, but not Songbird. But now I'm on a mac, and I
+don't even want to think about touching iTunes. My good ol' Clementine
+is fantastic, but Songbird supports all sorts of stuff that it doesn't,
+with CD ripping being a good example. Of course, Clementine will get all
+the features that I like at some point because it has an awesome
+developer, and the things it doesn't support are things I don't really
+need, but hey, I'm on a platform that Songbird officially supports, so
+why not? Alas, I'm using Songbird once again. Oh, the nostalgia.
+Songbird is good. Still sucks up a fat portion of memory, but shit, most
+media players do at this point, and Songbird does more than most and
+does it prettier than most. I'm the last person on earth to give a shit
+how much memory things use as long as I have enough to fit what I'm
+working with in, and I have plenty. I'm an Emacs user. I like the
+kitchen sink and all that. Songbird is beautiful:
+![image](http://raynes.me/songbird.png) The theme (feather) system is
+lovely, and Songbird can have virtually any look you can think of. That
+isn't really what I was looking for though. Media views are important to
+me. I am extremely picky about how I am allowed to look at my music. In
+the screenshot above, notice there are several different panes. Those
+are 'filter panes'. An alternative to the iTunesy list view, they allow
+me to look through my music and narrow things down based on genre,
+album, and artist. I'm actually surprised at how few media players have
+something like this. It seemed like a massive miss to me in that new
+fangled [Miro](http://www.getmiro.com/) thingy and is my top major
+reason for not using it. And, if filter view isn't enough for you, the
+media view stuff in Songbird is extensible! You can actually add new
+media views via extensions, so you have an infinite number of ways to
+look at your media library and if you're a programmer, you can create
+them yourself. This brings us to extensions, another neat feature of
+Songbird. Songbird is very Mozillia-y, being a descendent of Firefox,
+and has a very thorough extension system. When you think of Songbird
+extensions, think of Firefox extensions. They're quite similar in
+capability. Chatzilla actually runs in Songbird, if you need an idea.
+Songbird is very modular and a lot of even relatively basic
+functionality is implemented as extensions, including the lyrics pane in
+my screenshot and even stuff like syncing. And this brings us to
+syncing! Songbird is great at syncing. Syncing is implemented as various
+extensions for MTP and MSC devices.I use my HTC Evo as my little music
+box, so I enjoy easy ways to throw music at it. Android is great because
+you can just drag and drop music into the file system just like you
+would on your own computer. However, there is something to be said for
+being able to sync from your desktop media player just by dragging and
+dropping it. This \*almost\* worked out of the box. Songbird detected my
+Evo as soon as I plugged it in. Syncing works out of the box for some
+devices because these devices are known and configured beforehand.
+Songbird has to know what types of media a device can take and thus it
+has to know about that device beforehand for it to work perfectly. If it
+doesn't know about the device, it has to assume it is just a random
+standard media device and only assumes that it can play MP3 files.
+Apparently, for some reason, it couldn't figure out my poor Evo, and my
+music collection mostly consists of OGG files. Jesus wept. So, Songbird
+keeps a file in the root of a device's file system called
+.SBSettings.xml. This file can tell Songbird its capabilities (what it
+can play and what it can do). Therefore, it must be changed. I'm not a
+huge fan of editing XML files by hand just to sync music to a phone, so
+I found [Devise](http://addons.songbirdnest.com/addon/1895/), a
+fantastic little extension for Songbird for editing .SBSettings.xml. It
+provides a simple UI for defining your phone's capabilities. I got all
+that done in about 30 seconds and was syncing music. If you find
+yourself in this position and Songbird can't figure out your device,
+grab that extension. 9 times out of 10, you'll spend hours trying to
+figure out how to write the XML properly yourself, especially if you
+aren't a programmer. .SBSettings.xml isn't meant to be edited by hand by
+users. Beyond this, Songbird does the typical things you'd expect from a
+media player. It actually even has some support for videos, but I'm not
+quite sure how much. If you haven't heard much about it in a while, rest
+assured that Songbird is still heavily developed and well supported. If
+you're on OS X or Windows, go ahead and give it a go. If you're on
+Linux, hell, even you could give it a go. The whole "we've dropped Linux
+support" thing seems like a case of blowing ones wad a bit too early.
+That said, they could break it tomorrow and nobody would have even the
+slightest right to bitch about it because they would be able to play the
+"Hey, we called it..." card, rightfully. Songbird works on Linux right
+now, but it may not work forever. A lot of people just jump shipped and
+abandoned Songbird when they dropped Linux support when they could have
+saved the whole project if they had just stepped up and helped out. If
+you like Songbird, consider helping out with the Linux support.
+[Nightingale](http://getnightingale.com/) is a step in the right
+direction, but they're still having trouble getting off the ground.
+They're keeping people updated but progress is obviously slow, and that
+is a direct result of not enough organization and manpower. Help them
+out. Nightingale is an important project. P.S. This whole post was meant
+to be about syncing Songbird with Android devices, but I'll be damned if
+I didn't turn it into a whole post about Songbird. Hope you enjoyed it
+and learned something anyway. :)

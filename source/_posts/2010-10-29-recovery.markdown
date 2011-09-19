@@ -1,0 +1,70 @@
+---
+author: Raynes
+date: '2010-10-29 21:48:27'
+layout: post
+slug: recovery
+status: publish
+title: Recovery
+wordpress_id: '18'
+categories:
+- Clojure-Conj
+---
+
+I planned to make this post immediately after returning home. However, I
+became rather ill, so it got a little delayed. The first ever Clojure
+Conj is over, and now is the time for recovery. We're back to our normal
+every day lives, but things will never be exactly the same for any of
+us. We've learned new things, met new people, discussed ideas with our
+teammates face to face, and had the time of our lives. I for one enjoyed
+every second of the conference. Every talk taught me something I didn't
+know. I met people who I never imagined I would get to meet. I was
+greeted by an overwhelming number of friendly faces. I felt at home. The
+Conj brought a lot of firsts for me. My first plane ride. The whole
+process was generally smooth. I nearly missed my connection in Atlanta,
+but it all worked out in the end. No more than 4 hours of travel time in
+total to get there. About the same on the way back. The whole trip there
+and back came with excellent weather. The conditions on the east coast
+were everything one could ask for for a conference. The Hilton was
+awesome as well. Amazing staff, excellent rooms, a right-at-home feel
+that made being stuck in single building for the majority of two days
+not bother me at all. Choosing the Hilton for the conference venue is
+one of the smartest choices made for the Conj in my opinion. When I
+walked into the Hilton for the first time, the first person I saw was
+Chas Emerick (quite appropriately). I didn't recognize him at first, but
+he recognized me. Just moments after I arrived, even more appropriately,
+Lance and Justin walked through the doors. Of course, I didn't recognize
+either of them, but they recognized me. When we walked up to the counter
+to check in, the woman said "It's about time! Everybody coming in here
+today has been asking if you've arrived yet." A little later, Justin,
+Lance, and myself walked to Mez, a Mexican restaurant within reasonable
+walking distance of the Hilton. There we met Devin Walters, Alexy, and a
+whole group of people who I didn't recognize but whom recognized me. The
+conference days were stunning, but exhausting. When the first conference
+day ended, it was pretty late. We spent some time at Tir Na Nog, and
+ultimately, I didn't get to sleep until nearly 1AM. I woke up at 6AM the
+next morning to prepare. When I woke up, I could already tell I was
+beginning to get sick. My sinuses were a little achy. Luckily, the
+cold/sinus infection didn't really set in until that night after the
+conference. It certainly made the trip home a serious bitch though.
+Aaron Bedra's talk was on the second day. At one point during his talk,
+he had me stand up, handed me the mic, and asked me to explain to the
+conj-goers [the
+circumstances](http://cemerick.com/2010/09/10/anthony-simpson-will-receive-his-clojure-scholarship-thanks-to-you/)
+leading to my being able to attend. Mind you, he didn't tell me he was
+going to do that beforehand, so it's sufficient to say that it took all
+of my willpower to not shit myself and keep myself steady. My legs were
+vibrating so hard, I'm surprised I didn't knock over the table in front
+of me. However, several people have told me that they couldn't tell I
+was nervous and that I did great, and I appreciate the lies. :) In the
+end of it all, I met almost everybody I could have hoped to meet. There
+were only around 4 speakers that I never got around to meeting face to
+face, including David Liebke and Phil Hagelburg. Maybe next year! I even
+met Mister Hickey himself on the first night at Tir Na Nog. Luckily, the
+light was dim and being in close proximity to his hair didn't make my
+head explode. That would have been embarrassing. Everything that went
+into the trip was well worth it. Thanks again to everybody who donated,
+and to Relevance for waiving the admission fee, paying for my stay at
+the Hilton, and making me feel like family. I'd do it all over again 10
+thousand times if I could. I loved every minute of it, and I can only
+hope that I can find a way to attend next year's conference. I'm already
+addicted.
