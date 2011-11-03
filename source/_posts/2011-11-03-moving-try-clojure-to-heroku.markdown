@@ -17,9 +17,9 @@ So, my plan was to see if I could get [Try Clojure](http://tryclj.com) running o
 
 It took me all of 10 minutes to get Try Clojure running on Heroku. The only reason it took that long was because I didn't know that I had to start my server on a port that Heroku sets the environment variable PORT to. So, about 8 of those 10 minutes were me committing a fix for that. It was less a less than 5 line change. 
 
-I had to modify its `project.clj` file to add a :jvm-opts line to set the Java policy file for the application, but that was only because cake reads jvm options from `.cake/config` and Leiningen takes a key in project.clj for them. At this point in time, Heroku only supports Leiningen on the Clojure stack. I've been told that cake is not out of the question in the future. It doesn't really matter because it was a good idea to add :jvm-opts to my project.clj so that I could maintain complete Leiningen compatibility in Try Clojure.I have absolutely nothing against Heroku for not supporting cake as well as lein &ndash; it simply isn't a big deal.
+I had to modify its `project.clj` file to add a :jvm-opts line to set the Java policy file for the application, but that was only because cake reads jvm options from `.cake/config` and Leiningen takes a key in project.clj for them. At this point in time, Heroku only supports Leiningen on the Clojure stack. I've been told that cake is not out of the question in the future. It doesn't really matter because it was a good idea to add :jvm-opts to my project.clj so that I could maintain complete Leiningen compatibility in Try Clojure. I have absolutely nothing against Heroku for not supporting cake &ndash; it simply isn't a big deal, since Leiningen and cake have mostly compatible project descriptions and Try Clojure's project file is very simple.
 
-Finally, I had to create a proc file containing the following:
+Finally, I had to create a `Procfile` containing the following:
 
     web: lein run
     
