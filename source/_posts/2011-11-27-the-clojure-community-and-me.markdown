@@ -67,7 +67,7 @@ The conference was wonderful. The talks were great, but the social aspect of it 
 
 The next year was a blast for me. A few months  after the conference, I was hired as an intern at [Geni](http://geni.com), working remotely under Justin Balthrop and Lance Bradley, two close friends, on the site's backend with Clojure. With Clojure! My first job is developing Clojure! Winning! I quickly learned that making money is wonderful and that Macbook Pros are the best things since sliced bread.
 
-At about the same time I got my job, I also landed a book deal with [No Starch Press](http://nostarch.com). I'm currently writing a book called [Meet Clojure](meetclj.raynes.me) for them.
+At about the same time I got my job, I also landed a book deal with [No Starch Press](http://nostarch.com). I'm currently writing a book called [Meet Clojure](http://meetclj.raynes.me) for them.
 
 ## Clojure Conj 2011
 
