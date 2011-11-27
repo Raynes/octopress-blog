@@ -30,7 +30,7 @@ That project was my gateway into the world of serious programming. I spent a lot
 
 ## Things People Enjoy
 
-If I'm known for anything at this point, then I'm known for [Try Clojure](http://tryclj.com). It is a website that, like [TryRuby](http://tryruby.com), is designed to introduce people to the Clojure language very quickly by providing an interactive tutorial and an in-browser REPL that evaluates code **on the server side**. This was accomplished originally using Heinz N. Gies's clj-sandbox Clojure sandboxing library and eventually one that my best friend Alan Malloy and I  wrote later, called [Clojail](https://github.com/flatland/clojail).
+If I'm known for anything at this point, then I'm known for [Try Clojure](http://tryclj.com). It is a website that, like [TryRuby](http://tryruby.org), is designed to introduce people to the Clojure language very quickly by providing an interactive tutorial and an in-browser REPL that evaluates code **on the server side**. This was accomplished originally using Heinz N. Gies's clj-sandbox Clojure sandboxing library and eventually one that my best friend Alan Malloy and I  wrote later, called [Clojail](https://github.com/flatland/clojail).
 
 ## How To Get Famous
 
