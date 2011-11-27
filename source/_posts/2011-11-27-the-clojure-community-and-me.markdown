@@ -47,7 +47,7 @@ Not much time passed before Chas told me [Relevance](http://thinkrelevance.com/)
 
 Oh how the twitterverse rooted for Anthony Grimes on that day. Hacker News, Reddit, IRC. Even people outside of the Clojure community itself were donating for my cause. A whopping 72 minutes later, our goal had been reached (and slightly exceeded). 72 minutes is what it took for the Clojure community and others to raise $1000 for a 16 year old kid to be able to attend his first conference. Chas bought my mother and I our plane tickets and I was on my way.
 
-This would spark what is now becoming a tradition. For this last conference, Chas Emerick once again took it upon himself to once again [help](http://cemerick.com/2011/09/20/2011-clojure-scholarship-help-send-ambrose-to-the-conj/) somebody get to the conference. Ambrose Bonnaire-Sergeant had to travel much farther than me and thus his expenses were much greater. The Clojure community once again rose to the task and met the goal.
+This would spark what is now becoming a tradition. For this last conference, Chas Emerick once again took it upon himself to [help](http://cemerick.com/2011/09/20/2011-clojure-scholarship-help-send-ambrose-to-the-conj/) somebody get to the conference. Ambrose Bonnaire-Sergeant had to travel much farther than me and thus his expenses were much greater. The Clojure community once again rose to the task and met the goal.
 
 ## Clojure Conj 2010
 
