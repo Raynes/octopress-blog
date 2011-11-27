@@ -85,7 +85,7 @@ So, my talk got accepted. As soon as I cleaned out my undergarments and finished
 
 But shit, now I have to compose and perform a talk. For 40 minutes. In front of Rich Hickey and everyone else that I am intimidated by and who is exceedingly smarter than I am.
 
-So, I did what any person this terrified would do. I forgot it happened and waiting until about two months before the conference before I even thought about writing the talk. I ended up doing the majority of it over about two weeks because Justin had given me the ultimatum that I would either practice it live with my co-workers over Skype or not get paid. ;)
+So, I did what any person this terrified would do. I forgot it happened and waited until about two months before the conference before I even thought about writing the talk. I ended up doing the majority of it over about two weeks because Justin had given me the ultimatum that I would either practice it live with my co-workers over Skype or not get paid. ;)
 
 It went surprisingly well over Skype. They gave me insanely awesome feedback and  a lot of encouragement. The Clojail talk was the product of not only my blood sweat and tears, but those guys as well. That they convinced and (half-serious) forced me to practice the talk was the best thing that could happen to me. It showed me how nervous I would be at the Conj and taught me how to control it.
 
