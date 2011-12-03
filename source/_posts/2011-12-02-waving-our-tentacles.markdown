@@ -20,7 +20,7 @@ While writing the library, I obviously had to test things as I went along. In do
 3. We're going to use the Clojure REPL as a prompt for interacting with the Github API -- a very powerful concept.
 4. We're going to get to see what Tentacles can do.
 
-Note that I'll be using two accounts in my examples: `Raynes`, my own account and `amalloy`, Alan Malloy's account. He is mah buddy and agreed to have his info slathered across my blog. Furthermore, I'm going to pretty-print results with `clojure.pprint`.
+Note that I'll be using two accounts in my examples: `Raynes`, my own account and `amalloy`, Alan Malloy's account. It is about time he and I compete for world domination. Furthermore, I'm going to pretty-print some results with `clojure.pprint`.
 
 ## Playing along
 
