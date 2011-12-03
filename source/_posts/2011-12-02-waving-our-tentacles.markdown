@@ -16,7 +16,7 @@ But we're not really here to talk about Github as a service. We're here to talk 
 While writing the library, I obviously had to test things as I went along. In doing this, I realized how elegant and powerful it is to work with APIs from Clojure if you have a simple and concise library for doing so. The Github API has some really neat things in it that are really fun to play with, even if we aren't doing anything with them. This post is going to serve several purposes:
 
 1. We're going to learn how to use Tentacles.
-2. We're going to learn how to use some important parts of Github API.
+2. We're going to learn how to use some important parts of the Github API.
 3. We're going to use the Clojure REPL as a prompt for interacting with the Github API -- a very powerful concept.
 4. We're going to get to see what Tentacles can do.
 
