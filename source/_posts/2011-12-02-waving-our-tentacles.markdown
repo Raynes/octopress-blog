@@ -37,6 +37,10 @@ Tentacles supports the entire Github API, but we're going to start with Github's
 We can, of course, get information about a user.
 
 ``` clojure
+user> (require '[clojure.pprint :as pp])
+nil
+user> (require '[tentacles.users :as users])
+nil
 user> (pp/pprint (users/user "amalloy"))
 {:followers 30,
  :following 9,
