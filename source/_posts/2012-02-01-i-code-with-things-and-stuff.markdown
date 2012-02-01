@@ -143,6 +143,14 @@ quits on that. I will absolutely revisit this (it is really easy to
 write a RefHeap plugin in Python) if ST2 ever becomes better for Clojure
 and I can tolerate it long enough to test such a plugin.
 
+I'd like to add that my opinion of ST2 is *entirely* based around its
+support for Clojure. From what I saw, it is an **excellent** editor for
+other languages such as Python and Ruby. This makes perfect sense
+because the author and majority of contributors (to the parts that you
+can contribute to) use these languages and don't use Clojure. I expect
+that the Clojure portion of things will get more love as it gets more
+popular in the Clojure community.
+
 ### Vim
 
 My next stop was Vim. This is where things get interesting. VimL is the
@@ -170,16 +178,15 @@ part of things and I had a very nice and usable plugin. It was great!
 At this point, I stopped caring about editors and was more concerned
 with how much fun I had with Python! I don't very often just write shit
 in random languages just because I can, so it was nice to do new things.
-So I began justifying a rewrite in Ruby. Everybody loves Ruby! Nobody
-likes Python! Let's do it in Ruby!
+So I began having crazy thoughts to justify a rewrite in Ruby. Everybody 
+loves Ruby! Nobody likes Python<sup>1</sup>! Let's do it in Ruby!
 
 [So I did it in Ruby](https://github.com/Raynes/refheap.vim). This time, I
 wrote a [whole API library](https://github.com/Raynes/rubyheap) first because I
 knew I'd be using it for more than refheap.vim. That was 6 different
-kinds of fun. As a bonus, I [wrote a command-line tool for RefHeap as
-well](https://github.com/Raynes/refh). The actual Vim part of things was
-easy because the VimL glue was already written from the Python
-implementation.
+kinds of fun. As a bonus, I [wrote a command-line tool for RefHeap as well](https://github.com/Raynes/refh).
+The actual Vim part of things was easy because the VimL glue was already written
+from the Python implementation.
 
 I had lots of fun doing this, and it took me several days to do it. I
 used Vim for all of it, and that's where things got interesting. I
@@ -252,6 +259,12 @@ Emacs, but that turned out to not be the case. I do not want to go back
 to Emacs and do not see myself doing so in the near or distant future. I
 might find a reason to do so tomorrow and I might never find a reason to
 do so. We'll see.
+
+I've got one thing to add to this: I have nothing against Emacs.
+Seriously guys, you don't have to hate one in order to prefer the other.
+If I had a good reason to use Emacs now, I would. I just started using
+Vim and realized I liked it and that I'm very productive in it. Emacs
+did its job just fine and I have no animosity towards it.
 
 ## So, my development setup
 
@@ -350,5 +363,12 @@ wrong answer here and no silver bullet. My friend Phil Hagelberg says it
 best: whatever you do, do *not* let your editor get in the way of you
 learning Clojure.
 
-
 Thanks for reading.
+
+<sup>1</sup> This is a **joke**. Please take it as such. I don't dislike
+Python. Python is our friend. Take a deep breath.
+
+Thanks a lot to [Andrew Brehaut](http://brehaut.net/) for proof-reading
+and advising me a bit. He made me do this, so if anything I say here
+offends you, please direct all furious comments and bashing at his email
+address. Thank you.
