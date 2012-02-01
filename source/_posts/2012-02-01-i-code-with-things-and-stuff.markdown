@@ -157,7 +157,7 @@ have to write some VimL to glue it all together, but very little. The
 most important stuff can be written in one of those decent languages and
 you can generally keep your sanity. Seriously, go look at gist.vim, a
 plugin for Vim for the [Gist](https://gist.github.com) API. It is pure
-VimL and well over one thousand lines. No thanks.
+VimL and a little over one thousand lines. No thanks.
 
 I used Vim for a day and then I wrote that damned plugin. I dived in
 head first. The most information I could find for the Vim interface to
