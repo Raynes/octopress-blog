@@ -167,7 +167,7 @@ you can generally keep your sanity. Seriously, go look at gist.vim, a
 plugin for Vim for the [Gist](https://gist.github.com) API. It is pure
 VimL and a little over one thousand lines. No thanks.
 
-I used Vim for a day and then I wrote that damned plugin. I dived in
+I used Vim for a day and then I wrote that damned plugin. I dove in
 head first. The most information I could find for the Vim interface to
 any given language was for Python, and I was equally oblivious to all of
 these languages so I went with it. The actual Python part of things was
