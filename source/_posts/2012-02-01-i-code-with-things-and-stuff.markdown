@@ -52,7 +52,7 @@ The greatest thing about Emacs is just how much you can do
 with it. The fact that SLIME is possible in the first place and that it
 can work out so well is spectacular. Emacs is built around a Lisp called
 elisp. As such, Emacs is probably the most extensible editor that ever
-has been or every will be. You can make Vim do magic tricks, but Emacs
+has been or ever will be. You can make Vim do magic tricks, but Emacs
 really can pull a rabbit out of a hat.
 
 And that's what has always bothered me. When people talk about Vim vs
@@ -272,7 +272,7 @@ This was supposed to be a post about my development environment but it
 turned into a really long post about how I got here. I think that is
 important. I need people to understand *why* I use the things I do
 because that is wildly more important than what I actually use. So,
-without further adieu, here is what I'm using for development today and
+without further ado, here is what I'm using for development today and
 how I've got it set up.
 
 ### Software
@@ -328,11 +328,11 @@ media players is outside the scope of this blog post.
 ### Hardware
 
 I use a 2,2 macbook pro from '06 or '07. I did not pay a penny for this.
-It was given to me by my job. The company I work for, Geni, gave me this
-laptop. It is old, but it still works really well and the hardware isn't
-really ancient. It has 3GB RAM and a 2.33GHz intel core 2 duo. The only
-issues I have with it is that it is rather unsightly, has a DVI port,
-doesn't the newer and better multitouch trackpad, and is big and bulky.
+The company I work for, Geni, gave me this laptop. It is old, but it still 
+works really well and the hardware isn't really ancient. It has 3GB RAM and
+a 2.33GHz intel core 2 duo. The only issues I have with it is that it is rather
+unsightly, has a DVI port, doesn't have the newer and better multitouch trackpad,
+and is big and bulky.
 
 My ideal hardware would be a new 13-15 inch macbook pro, but I think I'd
 be fine with a macbook air. In a pinch, I'd appreciate a middle class
