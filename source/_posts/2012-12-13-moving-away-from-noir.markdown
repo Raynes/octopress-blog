@@ -33,7 +33,7 @@ With defpage came some agony as people realized that while Noir's abstraction
 *looks* fantastic, you have no control at all over how the routes are defined
 and wrapped by middleware. Because of that, Noir was much less flexible than
 Compojure. If you've ever tried to have a complex middleware setup on your
-routes in Noir (or used [Friend](https://github.com/cemerick/friend) with it for that matter, you already know what
+routes in Noir (or used [Friend](https://github.com/cemerick/friend) with it for that matter), you already know what
 I'm talking about. It is generally impossible to do so much as wrap a specific
 set of routes in middleware. This could have been added to Noir, but why bother?
 For the longest time, even Chris himself said that Compojure was better for
