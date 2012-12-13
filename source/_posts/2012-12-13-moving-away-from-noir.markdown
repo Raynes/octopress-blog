@@ -54,7 +54,7 @@ deprecate Noir and ask that people focus on Compojure instead. The good news is
 that you don't have to give much of anything up if you move to Compojure! A
 while back when I started moving my own sites to Compojure, I took most of the
 useful libraries that were embedded in Noir and I split them out into a new
-library that you can use from compojure!
+library that you can use from Compojure!
 [lib-noir](https://github.com/noir-clojure/lib-noir) is the legacy of Noir. The
 best thing that came out of it. It has all the useful stateful sessions,
 flashes, cookies, as well as the other useful libraries. In fact, the latest
@@ -76,8 +76,8 @@ moving to Compojure as soon as possible.
 
 I will not be maintaining Noir. If there is a serious bug or something that you
 would like to fix, open a pull request and ping me on IRC or email or something
-and I'll merge and release a new version. I wont be updating documentation or
-anything like that anymore, and I wont be adding new features. Beyond that,
+and I'll merge and release a new version. I won't be updating documentation or
+anything like that anymore, and I won't be adding new features. Beyond that,
 you're welcome to continue using Noir for the indefinite future, but keep in
 mind that as your application ages, it'll be much harder to update and
 eventually you'll end up having to fork Noir to update the versions of libraries
