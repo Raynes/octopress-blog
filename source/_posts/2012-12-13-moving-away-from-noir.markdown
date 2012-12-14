@@ -7,6 +7,9 @@ categories:
 - Clojure
 ---
 
+UPDATE: See the end of this post for a quote from Noir's original author, Chris
+Granger.
+
 This might be a bit of a sad post for some people, but most will find that it
 was simply long overdue and necessary. This post is a formal announcement of
 [Noir](https://github.com/noir-clojure/noir) being more or less deprecated.
@@ -92,3 +95,15 @@ I will absolutely continue maintaining lib-noir, so if there is anything you'd
 like to add to it, run it by me!
 
 Three cheers for Compojure (and lib-noir)!
+
+{% blockquote Chris Granger https://groups.google.com/forum/#!msg/clj-noir/AbAvQuikjGk/x8lKLKoomM0J %}
+
+Just to tack on here: If you're using Noir now, don't worry, everything is fine - 1.3.0 has been officially released and it's not going anywhere. There's nothing wrong with what's out there now, it's just that 1.3.0 will likely be the last release unless someone wanted to keep moving it forward. As time goes on, it likely makes sense to transition, but fortunately transitioning is pretty straightforward and Raynes can point to the commits he used to do that for Refheap. Ultimately, lib-noir + compojure gives a lot more flexibility when it comes to things like middleware at a relatively slight cost to ease of starting. Noir has always used compojure under the covers and so you'll find that most everything you've learned so far will map over pretty cleanly.
+
+When I started the project about two years ago, the Clojure web landscape looked quite a bit different and getting started was an incredibly painful process. Compojure had just split into a bunch of different pieces, there was this new "ring" thing, and trying to cobble everything together was a pretty daunting task. Since then, the Clojure web ecosystem has matured quite a bit and lib-noir fits very nicely into the direction the community is ultimately heading in. Noir still serves its purpose as a solid starting point for people who just want to get up and go with Clojure on the web, but I've also come to the conclusion that what we have now is just a baby step toward what we *could* be doing on the web. There are far better solutions waiting out there for Clojure, ones that don't just look like a standard http wrapper, and that's what we should be ultimately moving toward. We have the fundamental building blocks to build websites, it's time we start pushing the state of the art.
+
+I'm excited to see what we, the community, come up with.
+
+Cheers,
+Chris.
+{% endblockquote %}
