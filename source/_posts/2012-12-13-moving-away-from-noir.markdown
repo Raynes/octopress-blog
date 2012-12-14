@@ -8,7 +8,7 @@ categories:
 ---
 
 UPDATE: See the end of this post for a quote from Noir's original author, Chris
-Granger. Also, here are the commits where I moved to Compojure in refheap: https://github.com/Raynes/refheap/compare/b943338cc23ff63559fa6190e74f0f39f85badb0...6ab25a24e7e669c7d6482c111bc4a44d5de1997a
+Granger. Also, here are the commits where I moved to Compojure in refheap: [https://github.com/Raynes/refheap/compare/b943338cc23ff63559fa6190e74f0f39f85badb0...6ab25a24e7e669c7d6482c111bc4a44d5de1997a](https://github.com/Raynes/refheap/compare/b943338cc23ff63559fa6190e74f0f39f85badb0...6ab25a24e7e669c7d6482c111bc4a44d5de1997a)
 
 This might be a bit of a sad post for some people, but most will find that it
 was simply long overdue and necessary. This post is a formal announcement of
