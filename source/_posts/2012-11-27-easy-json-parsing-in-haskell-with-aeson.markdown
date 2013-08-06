@@ -69,7 +69,7 @@ Let's go ahead and throw some imports in to start:
 
 ```haskell
 import Data.Aeson ((.:), (.:?), decode, FromJSON)
-import Data.Applicative ((<$>), (<*>))
+import Control.Applicative ((<$>), (<*>))
 import qualified Data.ByteString.Lazy.Char8 as BS
 ```
 
