@@ -128,4 +128,4 @@ the latter, and I'm happy. I see myself with a future, and I like that.
 
 I don't know what the future has in store for me. Most people don't. I think Los
 Angeles and my current choices are good for me, and I'm excited to see what
-happens in the next six months and beyond. I'm Raynes, and that's my life.
+happens in the next six months and beyond. I'm Raynes, and that's my life now.
